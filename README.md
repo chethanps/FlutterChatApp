@@ -2,7 +2,7 @@
 
 A Chat Flutter application.
 
-- ![Chat App Demo] (demo/ChatAppDemo.gif)
+- ![Chat App Demo](demo/ChatAppDemo.gif)
 
 ## Getting Started
 
