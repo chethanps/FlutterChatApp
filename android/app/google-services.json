@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942647384547",
+    "project_id": "chatapp-ac8d6",
+    "storage_bucket": "chatapp-ac8d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942647384547:android:03e80e9785bd55fdfda8d6",
+        "android_client_info": {
+          "package_name": "com.chethan.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942647384547-3niu7u90nd3n6qv3c8ul2updbs0jeao7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADuXl6Mso0CBHxH9404wY3Vd3BB7lLNiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942647384547-3niu7u90nd3n6qv3c8ul2updbs0jeao7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
